@@ -26,6 +26,8 @@ Light|SolarDim|Solarized Light
 
 * [SolarDim for __JetBrains IDEs__](https://github.com/RDMCz/SolarDim-JetBrains)
 
+* [SolarDim for __Embarcadero Delphi__](https://github.com/RDMCz/SolarDim-Delphi)
+
 ## Detailed showcase
 
 ![SolarDim colors sheet](./src/solardim_colors.svg)
